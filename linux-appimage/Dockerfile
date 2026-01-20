@@ -21,6 +21,9 @@ RUN apt-get install -y \
     build-essential \
     libsdl2-dev \
     libssl-dev \
+    gcc-9 \
+    g++-9 \
+    cpp-9 \
     gcc-11 \
     g++-11 \
     cpp-11 \
